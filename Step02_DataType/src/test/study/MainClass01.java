@@ -27,6 +27,5 @@ public class MainClass01 {
 		
 		// double type 변수에 있는 값을 float type에 담을때는 casting이 필요하다.
 		float num7 = (float)num4;
-		
 	}
 }
